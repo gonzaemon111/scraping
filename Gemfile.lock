@@ -156,6 +156,7 @@ GEM
       dry-validation (>= 0.10.4)
     connection_pool (2.2.2)
     crass (1.0.4)
+    csv (3.0.2)
     database_cleaner (1.7.0)
     database_rewinder (0.9.1)
     debug_inspector (0.0.3)
@@ -651,6 +652,7 @@ DEPENDENCIES
   chartkick
   codecov
   config
+  csv
   database_cleaner
   database_rewinder
   devise
